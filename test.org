@@ -1,0 +1,11 @@
+* welcome to org-mode
+
+Welcome and thanks for trying out org-mode. Making outlines in org is very simple ait is text
+* this is a headline
+a heading is one star, a sub heading two, etc.
+
+* working with lits
+** moving around in our outlines
+** moving around headlines
+
+** TODO buy airplane
