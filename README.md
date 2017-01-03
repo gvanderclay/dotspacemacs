@@ -12,6 +12,6 @@ An installation script is coming up, but for now:
 - `ln -s path/to/spacemacs ~/.emacs.d`
 - Clone this repo somewhere
 - `ln -s path/to/dotspacemacs/dotspacemacs ~/.spacemacs`
-- `ln -s path/to/dotspacemacs/avendael ~/.emacs.d/private/`
+- `ln -s path/to/dotspacemacs/vandercg ~/.emacs.d/private/`
 
 Yup, links everywhere.
